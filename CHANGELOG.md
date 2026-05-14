@@ -1,6 +1,15 @@
 # CHANGELOG
 
 
+## v3.3.4 (2026-05-14)
+
+### Bug Fixes
+
+- **threading**: Fixed the multiprocessing to explicitly use older 'fork' method
+  ([#63](https://github.com/hannahbee91/nuxbt/pull/63),
+  [`5b8a74f`](https://github.com/hannahbee91/nuxbt/commit/5b8a74f24bd2e526110b02c1307ebcff7796336f))
+
+
 ## v3.3.3 (2026-05-14)
 
 ### Bug Fixes
